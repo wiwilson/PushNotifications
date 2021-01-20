@@ -1,0 +1,7 @@
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\NotificationApi.exe
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\NotificationApi.dll
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\NotificationApi.deps.json
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\NotificationApi.runtimeconfig.json
+C:\Users\willw\source\repos\NotificationApi\NotificationApi\obj\Release\netcoreapp3.1\PubTmp\Out\NotificationApi.pdb
